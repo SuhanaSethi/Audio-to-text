@@ -1,3 +1,12 @@
+<h1>Audio to text converter</h1>
+
+## User Interface
+
+- Select the Audio you want to convert.
+- Transcripted text will be displayed in the box.
+- You can save the text in your desired file.
+  
+  
 ![image](https://github.com/user-attachments/assets/644ac617-8815-4349-b178-5784251864fc)
 
 ![image](https://github.com/user-attachments/assets/9f7c1f2f-77df-48f9-93f0-27b62760326f)
